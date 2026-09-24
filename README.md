@@ -16,5 +16,6 @@ Probar un conflicto de fusión en un entorno real y resolverlo manualmente y sin
 ## Tecnologias utilizadas
 
 **HTML5**
+
 **GIT**
 
